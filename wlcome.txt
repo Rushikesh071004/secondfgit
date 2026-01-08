@@ -1,0 +1,5 @@
+class hello{
+public static hello3{
+Systum.out.println("Kya Hal hein");
+{
+}
